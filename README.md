@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **OAuth**
 
-- 💬 Ask me about **React,express,Redux**
-
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1A8LzhfFWyrxGsnuf7ysrHS3XxYlVJLbN](https://drive.google.com/uc?export=download&id=1A8LzhfFWyrxGsnuf7ysrHS3XxYlVJLbN)
+- 💬 Ask me about **React,Redux,express,MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

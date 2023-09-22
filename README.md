@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Sarkar</h1>
 <h3 align="center">I am a dedicated front-end developer based in Kolkata, West Bengal. I graduated with a degree in Electrical Engineering in 2020. Additionally, I recently completed a comprehensive 30-week full-stack web development course at Masai School in Bengaluru, Karnataka.</h3>
 <img  align="right" width="400px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="">
-<a href="https://souravsarkar1.github.io/">Portfolio</a>
+<p>Check my <a href="https://souravsarkar1.github.io/">Portfolio</a></p>
 <br/>
 
 - 🔭 I’m currently working on **Flat buy and sell web site**

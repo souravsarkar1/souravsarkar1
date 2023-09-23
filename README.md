@@ -33,7 +33,11 @@ Crafted a robust web application featuring responsive design using React and Cha
 </div>
 <h3 >Project : ChatwithAi</p>
 <h5>Develop a fully responsive website dedicated to showcasing the unique features, OPEN AI Intregation</h5>
-<a href = "https://code-converter-ashen.vercel.app/">Live Link</a>
+<a href = "">Live Link</a>
+ <div>
+ <a align="right"  href = "https://code-converter-ashen.vercel.app/">Live Link</a>
+ <a align="left"  href = "https://barajiakur.netlify.app/">code Base</a>
+</div>
 <h3 >Project : ModrenFurniture</p>
 <h5>Discover exquisite furniture that combines style and comfort. Our curated collection offers timeless classics, contemporary marvels, and eclectic masterpieces. Transform your living spaces with elegant designs and exceptional craftsmanship. Welcome to Modren Furniture.</h5>
 

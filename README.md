@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sourav Sarkar</h1>
 <h3 align="center">I am a result-oriented full-stack web developer based in Kolkata, West Bengal, with a background in Electrical Engineering. In 2020, I graduated with an engineering degree, and I have since completed a comprehensive 30-week full-stack web development course at Masai School in Bengaluru, Karnataka. My passion lies in creating user-friendly web applications using the MERN Stack, and I believe that every line of code is an opportunity to shape the digital world. I invite you to join me on this remarkable journey of innovation and creativity, where together, we can turn your vision into a digital reality.</h3>
 <img  align="right" width="400px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="">
-<h3>Check my <a href="https://souravsarkar1.github.io/">Portfolio</a></h3>
+<h3>Check my <a href="https://souravsarkar1.github.io/" target="_blank" rel="noreferrer">Portfolio</a></h3>
 <br/>
 <h2>Connect and Collaborate: Find Me on Social Media!</h2>
 <h4><a href ="https://www.linkedin.com/in/souravsarkar12/" target="_blank" rel="noreferrer">LinkedIn</a></h4>
 <h4><a href ="https://twitter.com/SouravS44645555" target="_blank" rel="noreferrer">Twitter</a></h4>
-<h4>See My <a href ="https://drive.google.com/file/d/1UlPud5tsYct-jImWMn3QJ1sEcW5eF1Ia/view?usp=sharing">Resume</a></h4>
+<h4>See My <a href ="https://drive.google.com/file/d/1UlPud5tsYct-jImWMn3QJ1sEcW5eF1Ia/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a></h4>
 - 🔭 I’m currently working on **Flat buy and sell web site**
 
 - 🌱 I’m currently learning **OAuth**

@@ -6,9 +6,13 @@
 <br/>
 <div lign="center" >
 <h2>Connect and Collaborate: Find Me on Social Media!</h2>
-<h4><a href ="https://www.linkedin.com/in/souravsarkar12/" target="_blank" rel="noreferrer">LinkedIn</a></h4>
-<h4><a href ="https://twitter.com/SouravS44645555" target="_blank" rel="noreferrer">Twitter</a></h4>
-<h4><a href ="https://stackoverflow.com/users/21366367/sourav-sarkar" target="_blank" rel="noreferrer">Stackoverflow</a></h4>
+<a href="https://www.linkedin.com/in/souravsarkar12/" target="_blank" rel="noreferrer">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="60">
+</a>
+
+<a href="https://twitter.com/SouravS44645555" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/twitter.svg" alt="Twitter" width="20">
+</a>
  </div>
 <h4><a href ="https://drive.google.com/file/d/1UlPud5tsYct-jImWMn3QJ1sEcW5eF1Ia/view?usp=sharing" target="_blank" rel="noreferrer">See My Resume</a></h4>
 - 🔭 I’m currently working on **Flat buy and sell web site**

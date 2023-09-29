@@ -24,8 +24,8 @@
 
 - 🔭 I’m currently working on **Flat buy and sell web site**
 
-- 🌱 I’m currently learning **OAuth**
-
+- 🌱 I’m currently learning **OAuth** and **Next Js**
+  
 - 💬 Ask me about **React, Redux, Express, MongoDB**
 
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=souravsarkar1&show_icons=true&theme=radical" alt="GitHub Summary">

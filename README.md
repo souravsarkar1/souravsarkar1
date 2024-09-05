@@ -21,9 +21,9 @@
 
 <h4><a href="https://drive.google.com/file/d/1UlPud5tsYct-jImWMn3QJ1sEcW5eF1Ia/view?usp=sharing" target="_blank" rel="noopener noreferrer">See My Resume</a></h4>
 
-- 🔭 I’m currently working on **Flat buy and sell web site**
+- 🔭 I’m currently working on **Huhsl Inn. Pvt Ltd**
 
-- 🌱 I’m currently learning **OAuth** and **Next Js**
+- 🌱 I’m currently learning **Postgresql** and **Graphql**
   
 - 💬 Ask me about **React, Redux, Express, MongoDB**
 
